@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Voici mon fil RSS</title>
+		<link>http://fil.rss.com/</link>
+		<description>Fil rss exemple seulement</description>
+		<language>en-us</language>
+		<copyright>Copyright 2008</copyright>
+		<lastBuildDate>Wed, 02 Apr 2008 15:29:57 -0500</lastBuildDate>
+		<pubDate>Thu, 03 Apr 2008 10:33:52 -0500</pubDate>
+		<generator>http://www.phpascal.com</generator>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+		<item>
+			<title>Titre d'un article</title>
+			<description>Texte d'un article...</description>
+			<link>http://lien_de_l_article/2008/12/08/page.html</link>
+			<guid>http://lien_de_l_article/2008/12/08/page.html</guid>
+			<author>PH Pascal</author>
+			<comments>http://lien_de_l_article/2008/12/08/page.html#comments</comments>
+			<pubDate>mercredi  2 avril 2008, 15h29</pubDate>
+			<enclosure url="http://site.com/image.jpg" length="47324" type="image/jpeg" />
+		</item>
+
+	</channel>
+</rss>
